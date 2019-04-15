@@ -1,0 +1,1 @@
+# Bonus Calculator [![Build Status](https://travis-ci.org/aygulmardanova/bonus.svg?branch=master)](https://travis-ci.org/aygulmardanova/bonus) [![codecov](https://codecov.io/gh/aygulmardanova/bonus/branch/master/graph/badge.svg)](https://codecov.io/gh/aygulmardanova/bonus)
